@@ -1,8 +1,8 @@
 <?php
 namespace Thomas\Gun;
-class Talk{
+class Gun2016{
 	public function say()
 	{
-		echo "yes....";
+		echo "yes....".time();
 	}
 }
